@@ -1,2 +1,2 @@
-# Random_Bashscript
-Where i put random bash script stuff
+# Random_ShellScripts
+Where i put random shellscript stuff
